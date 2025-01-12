@@ -9,7 +9,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "palindromejs": "node Palindrome.js"
+    "palindromejs": "node Palindrome.js",
+    "helloWorld.js": "node helloWorld.js"
   },
   "keywords": [],
   "author": "",
